@@ -10,7 +10,7 @@ mkdir -p ~/.local/bin/
 
 # Copy main script
 cp quicksearch.sh ~/.local/bin/
-chmod +x ~/bin/quicksearch.sh
+chmod +x ~/.local/bin/quicksearch.sh
 
 # Create all symbolic links
 cd ~/.local/bin/
