@@ -43,7 +43,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Bash](https://img.shields.io/badge/bash-4.0+-green.svg)](https://www.gnu.org/software/bash/)
-[![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS-blue.svg)](https://github.com/yourusername/quicksearch)
+[![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS-blue.svg)](https://github.com/Nachmen-Kurtz/quicksearch)
 
 Lightning-fast CLI search shortcuts for developers. Search 30+ sites directly from your terminal with simple, memorable commands.
 
